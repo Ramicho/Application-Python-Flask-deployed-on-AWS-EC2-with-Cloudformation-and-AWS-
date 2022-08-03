@@ -1,2 +1,2 @@
-# Deneme-Pul-Request
+# Deneme-Pull-Request
 Pull Request denemesi için
